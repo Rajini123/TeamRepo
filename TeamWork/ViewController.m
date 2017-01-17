@@ -18,6 +18,8 @@
     [super viewDidLoad];
     
     NSLog(@"This is Rajini Line");
+    NSLog(@"This is Ambica Line");
+    
     // Do any additional setup after loading the view, typically from a nib.
 }
 
