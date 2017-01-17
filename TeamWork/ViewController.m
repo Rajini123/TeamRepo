@@ -19,7 +19,7 @@
     
     NSLog(@"This is Rajini Line");
     NSLog(@"This is Ambica Line");
-    
+    NSLog(@"this is sailaja");
     // Do any additional setup after loading the view, typically from a nib.
 }
 
