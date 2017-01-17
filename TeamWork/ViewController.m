@@ -22,6 +22,7 @@
     NSLog(@"this is sailaja");
     NSLog(@"This is Ambica again");
     NSLog(@"sailaja again");
+    NSLog(@"Rajini again");
     // Do any additional setup after loading the view, typically from a nib.
 }
 
